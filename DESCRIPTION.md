@@ -40,7 +40,7 @@ AndroidにおけるRクラスのように、ViewやStoryboard, Stringsなどの�
 FILE_NAME="mytheme"
 # Generate color palette file
 "./Html2Clr" "$SRCROOT/$PROJECT_NAME/$FILE_NAME.txt"
-# Copy to User directory color palette
+# Copy to user's color palette directory
 "cp" "$SRCROOT/$PROJECT_NAME/$FILE_NAME.clr" "$HOME/Library/Colors/"
 ```
 
