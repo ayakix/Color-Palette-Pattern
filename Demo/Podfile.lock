@@ -1,0 +1,15 @@
+PODS:
+  - R.swift (3.2.0):
+    - R.swift.Library (~> 3.0.2)
+  - R.swift.Library (3.0.2)
+
+DEPENDENCIES:
+  - R.swift (= 3.2.0)
+
+SPEC CHECKSUMS:
+  R.swift: 207a372a2b5977caef440c696a368009460641d1
+  R.swift.Library: fbdec16c9802ad104fc1ba53415dc190e6ec5c73
+
+PODFILE CHECKSUM: 7540cbe68ac08e7f69879d306226b147ef6ff21b
+
+COCOAPODS: 1.2.0

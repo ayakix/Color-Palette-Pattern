@@ -1,0 +1,7 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+platform :ios, '10.0'
+
+target 'Color-Palette-Pattern' do
+  pod 'R.swift', '3.2.0'
+end

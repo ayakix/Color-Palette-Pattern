@@ -1,0 +1,3 @@
+4E77FF      primary
+FF4949      accent
+D8D8D8      text
